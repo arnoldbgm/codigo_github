@@ -1,1 +1,2 @@
 Primer texto introducido a GIT HUB
+Segundo cambio en GIT HUB
