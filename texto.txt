@@ -1,3 +1,1 @@
-Hola que tal como te va
-2° COMENTARIO MANO
-QUE FUE BATERAI
+Primer texto introducido a GIT HUB
